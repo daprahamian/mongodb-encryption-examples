@@ -1,0 +1,6 @@
+libmongocrypt
+mongo-c-driver*
+node_modules/
+*.pid
+mongocryptd
+env.sh
