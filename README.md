@@ -2,7 +2,7 @@
 
 ## Installation
 
-First, ensure that you have libbson and libmongocryptd installed globally (requires `wget` and `cmake`):
+First, ensure that you have `libbson` and `libmongocrypt` installed globally (requires `wget` and `cmake`):
 
 ```sh
 # Installs libbson
