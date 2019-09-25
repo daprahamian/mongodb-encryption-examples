@@ -1,7 +1,8 @@
 'use strict';
 
-const { MongoClient } = require('mongodb');
-const { ClientEncryption } = require('mongodb-client-encryption');
+const mongodb = require('mongodb');
+const { ClientEncryption } = require('mongodb-client-encryption')(mongodb);
+const { MongoClient } = mongodb;
 
 const {
   URL,
