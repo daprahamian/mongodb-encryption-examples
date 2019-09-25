@@ -11,8 +11,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mongodb": "^3.3.0-beta2",
-    "mongodb-client-encryption": "^0.1.3"
+    "mongodb": "^3.3.0",
+    "mongodb-client-encryption": "^0.3.0"
   },
   "devDependencies": {
     "eslint": "^6.0.1",
